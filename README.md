@@ -1,5 +1,9 @@
 # repo_ADA_project
 
+The project's main idea is to develop a framework based on Python that can predict the prices of Bitcoin using various machine-learning models.
+
+### Requirements 
+
 To run the project, you need Python 3.9.6, and have installed the following packages:
 
 pandas version: 2.2.2
